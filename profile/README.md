@@ -4,8 +4,9 @@
 
 Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplificar e melhorar o ramo financeiro para os desenvolvedores. Trazendo uma fácil gestão monetária, e uma fácil aplicação de nossas SDKs em seu sistema.
 
-<a href="https://bflex.tech" target="_blank"><img height="40px" src="https://img.shields.io/badge/Veja%20Mais-700000"></a>
-
+<a href="https://bflex.tech" target="_blank"><img height="38px" src="https://img.shields.io/badge/Site%20completo-843057"></a>
+<br>
+<br>
 
 # Indexando SDKs disponíveis!
 
@@ -16,7 +17,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       Rust
     </td>
     <td>
-      Still in development
+      Ainda em desenvolvimento
     </td>
   </tr>
   <tr>
@@ -25,7 +26,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       C
     </td>
     <td>
-      Still in development
+      Ainda em desenvolvimento
     </td>
   </tr>
 </table>
