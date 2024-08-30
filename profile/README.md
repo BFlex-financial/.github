@@ -17,7 +17,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       Rust
     </td>
     <td>
-      Ainda em desenvolvimento
+      Beta aberta (API off)
     </td>
   </tr>
   <tr>
