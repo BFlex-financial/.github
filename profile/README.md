@@ -48,3 +48,5 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
     </td>
   </tr>
 </table>
+
+#### TypeScript recomendado, já que lidamos com incertezas e tipagens para a segurança do seu sistema.
