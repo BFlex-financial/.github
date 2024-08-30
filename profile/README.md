@@ -20,7 +20,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       Beta aberta (API off)
     </td>
     <td>
-      🟡
+      Status: 🟡
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       Ainda em desenvolvimento
     </td>
     <td>
-      🔴
+      Status: 🔴
     </td>
   </tr>
 </table>
