@@ -19,6 +19,9 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
     <td>
       Beta aberta (API off)
     </td>
+    <td>
+      🟡
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/BFlex-financial/bfinancial-c" taget="_blank">BFinancial-c</a></td>
@@ -27,6 +30,9 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
     </td>
     <td>
       Ainda em desenvolvimento
+    </td>
+    <td>
+      🔴
     </td>
   </tr>
 </table>
