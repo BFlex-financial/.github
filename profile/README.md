@@ -74,3 +74,4 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
 </table>
 
 ###### Caso sua escolha seja a lib JS, o TypeScript é recomendado. Já que lidamos com incertezas e tipagens para a segurança do seu sistema.
+###### Logicamente, existe a escolha do JavaScript. Caso opte por ele, use o Unwrap em vez do Match, facilitará seu processo enquanto auxência de tipagem.
