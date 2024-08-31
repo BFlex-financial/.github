@@ -49,4 +49,4 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
   </tr>
 </table>
 
-#### Caso sua escolha seja a lib JS, o TypeScript é recomendado. Já que lidamos com incertezas e tipagens para a segurança do seu sistema.
+###### Caso sua escolha seja a lib JS, o TypeScript é recomendado. Já que lidamos com incertezas e tipagens para a segurança do seu sistema.
