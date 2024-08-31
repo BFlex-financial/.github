@@ -48,7 +48,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/BFlex-financial/bfinancial-c" taget="_blank">BFinancial-go</a></td>
+    <td><a href="https://github.com/BFlex-financial/bfinancial-go" taget="_blank">BFinancial-go</a></td>
     <td> 
       Go
     </td>
