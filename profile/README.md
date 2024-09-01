@@ -38,7 +38,19 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
   <tr>
     <td><a href="https://github.com/BFlex-financial/bfinancial-ts" taget="_blank">BFinancial-ts</a></td>
     <td> 
-      TS/JS
+      TS (Bun/Deno)
+    </td>
+    <td>
+      Beta aberta (API off)
+    </td>
+    <td>
+      Status: 🟡
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BFlex-financial/bfinancial-nodejs" taget="_blank">BFinancial-nodejs</a></td>
+    <td> 
+      Node.js
     </td>
     <td>
       Beta aberta (API off)
