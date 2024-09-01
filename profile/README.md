@@ -86,4 +86,4 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
 </table>
 
 ###### Caso sua escolha seja a lib JS, o TypeScript é recomendado. Já que lidamos com incertezas e tipagens para a segurança do seu sistema.
-###### Logicamente, existe a escolha do JavaScript. Caso opte por ele, use o Unwrap em vez do Match, facilitará seu processo enquanto auxência de tipagem.
+###### Logicamente, existe a escolha do JavaScript. Caso opte por ele, se quiser mais segurança, transpile com o `tsc` o código da lib Typescript. Caso opte por praticidade com a linguagem, use da lib do Node.js. Q foi planejada para funcionar perfeitamente com o JavaScript, e como não temos tipagem, perdendo um pouco da segurança do sistema.
