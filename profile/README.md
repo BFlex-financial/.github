@@ -60,6 +60,18 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
     </td>
   </tr>
   <tr>
+    <td><a href="https://github.com/BFlex-financial/bfinancial-py" taget="_blank">BFinancial-py</a></td>
+    <td> 
+      Python
+    </td>
+    <td>
+      Beta aberta (API off)
+    </td>
+    <td>
+      Status: 🟡
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/BFlex-financial/bfinancial-go" taget="_blank">BFinancial-go</a></td>
     <td> 
       Go
