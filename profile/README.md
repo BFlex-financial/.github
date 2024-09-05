@@ -77,10 +77,10 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       Go
     </td>
     <td>
-      Ainda em desenvolvimento
+      Beta aberta (API off)
     </td>
     <td>
-      Status: 🔴
+      Status: 🟡
     </td>
   </tr>
   <tr>
