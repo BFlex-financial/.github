@@ -89,10 +89,10 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
       C
     </td>
     <td>
-      Ainda em desenvolvimento
+      Fase de teste
     </td>
     <td>
-      Status: 🔴
+      Status: 🟡
     </td>
   </tr>
 </table>
