@@ -1,6 +1,6 @@
 <div align="right">
   
-  [Other languages](./OTHER.md)
+  [English](./ENGLISH.md) | [Español](./SPANISH.md)
 </div>
 
 # Olá! Bem vindo ao financeiro da BFlex!
