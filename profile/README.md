@@ -7,6 +7,7 @@ Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplif
 <a href="https://bflex.tech" target="_blank"><img height="35px" src="https://img.shields.io/badge/Saiba%20mais-843057"></a>
 <br>
 <br>
+###### [Other languages](./OTHER.md)
 
 ##
 
