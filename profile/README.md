@@ -7,7 +7,7 @@
 
 <img align="left" height="140" src="https://imgur.com/vgLnKNc.png"/>
 
-Nós da `BFlex F. Solutions`, Somos uma empresa Brasileira, empenhada em simplificar e melhorar o ramo financeiro para os desenvolvedores. Trazendo uma fácil gestão monetária, e uma fácil aplicação de nossas SDKs em seu sistema.
+Nós da `BFlex F. Solutions` somos uma empresa brasileira dedicada a simplificar e melhorar o ramo financeiro para desenvolvedores, oferecendo gestão monetária fácil e SDKs de fácil integração.
 
 <a href="https://bflex.tech" target="_blank"><img height="35px" src="https://img.shields.io/badge/Saiba%20mais-843057"></a>
 <br>
