@@ -16,5 +16,5 @@ We at `BFlex F. Solutions` are a Brazilian company dedicated to simplifying and 
 ##
 
 ###### Developers
-[Eduardo Bandeira](https://github.com/EngBandeira)  • [Lucas Silveira](https://github.com/lucasFelixSilveira) <br>
-[Renato Fermi](https://github.com/repiazza)         • [Heitor Ferreira](https://github.com/Hector2523)
+[Eduardo Bandeira](https://github.com/EngBandeira)  • [Lucas Silveira](https://github.com/lucasFelixSilveira) • [Renato Fermi](https://github.com/repiazza) <br>
+[Matheus Oliveira](https://github.com/matheusxdev)  • [Heitor Ferreira](https://github.com/Hector2523) 
